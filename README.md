@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Thaw, an <a href="https://linkedin.com/in/Thaw So">IT Professional</a>☺</h1>
+<h1>Hi, I'm Thaw, an <a href="https://www.linkedin.com/in/thaw-so-1ab36a279/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
