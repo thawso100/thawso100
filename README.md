@@ -13,9 +13,9 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Josh | Facebook" width="22px" src="https://www.facebook.com/profile.php?id=100008000987381" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.instagram.com/thaw_so/" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="linkedin.com/in/thaw-so-1ab36a279" />][instagram]
 
 [Facebook]: https://www.facebook.com/profile.php?id=100008000987381
 [instagram]: https://www.instagram.com/thaw_so/
